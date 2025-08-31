@@ -1,0 +1,23 @@
+FootstepsFX - a plugin by Wolfwriter
+Copyright (C) 2025 Wolfwriter
+
+This program is free software: you can redistribute it and/or modify it under the terms of
+the GNU General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later published
+version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; even without the implied warranty
+of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this
+program. If not, see <https://www.gnu.org/licenses/>.
+
+Additional conditions for FootstepsFX:
+- You may use the plugin free of charge on private and public servers.
+- You may modify or extend the code as long as the credits remain intact.
+- You may include the plugin in server packs if “wolfwriter” is credited as the author.
+- You may not sell the plugin or distribute it for money.
+- You may not claim to be the author of the plugin.
+- You may not upload modified versions as “official.”

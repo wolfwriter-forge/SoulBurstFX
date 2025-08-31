@@ -1,0 +1,23 @@
+name: SoulBurstFX
+version: '1.0-1.21.1'
+main: wolfwriter.soulburst_fx.SoulBurstFX
+api-version: '1.21.1'
+prefix: [ SoulBurstFX ]
+authors: [ Wolfwriter ]
+description: P
+commands:
+  killeffect:
+    permission: killeffect.use
+permissions:
+  killeffect.use:
+    default: true
+  killeffect.style.use:
+    default: true
+  killeffect.reload:
+    default: op
+  killeffect.unlock:
+    default: op
+  killeffect.lock:
+    default: op
+
+
